@@ -1,0 +1,20 @@
+PODS:
+  - KeychainSwift (19.0.0)
+  - TinyConstraints (3.3.1)
+
+DEPENDENCIES:
+  - KeychainSwift
+  - TinyConstraints (~> 3.3.1)
+
+SPEC REPOS:
+  trunk:
+    - KeychainSwift
+    - TinyConstraints
+
+SPEC CHECKSUMS:
+  KeychainSwift: a06190cf933ad46b1e0abc3d77d29c06331715c7
+  TinyConstraints: dbf7519aefc01ea59d62244300c7718aec68e280
+
+PODFILE CHECKSUM: 61b7f8ede9ce3a8ffc9c1f8ad250de2cc98b4fea
+
+COCOAPODS: 1.9.0.beta.3
